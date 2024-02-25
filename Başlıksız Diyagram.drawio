@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T16:48:12.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="NaDi7dyFKPb-kQHl1G1l" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T18:49:14.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="ufgG6VhwZinc8cuSUFSg" version="23.1.6" type="github">
   <diagram name="Sayfa -1" id="r9lTnVV6BhuvakZQ1FRR">
     <mxGraphModel dx="1302" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
         <mxCell id="GnVbSkeYbTYmal31hC_R-54" value="+ is_published(inst): Bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GnVbSkeYbTYmal31hC_R-44">
           <mxGeometry y="450" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GnVbSkeYbTYmal31hC_R-64" value="+ is_published(): queryset" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GnVbSkeYbTYmal31hC_R-44">
+        <mxCell id="GnVbSkeYbTYmal31hC_R-64" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+ get_recent_posts(): queryset&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GnVbSkeYbTYmal31hC_R-44">
           <mxGeometry y="476" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GnVbSkeYbTYmal31hC_R-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GnVbSkeYbTYmal31hC_R-58" target="GnVbSkeYbTYmal31hC_R-23">
